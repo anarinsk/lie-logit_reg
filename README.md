@@ -1,3 +1,13 @@
+---
+title: "Understanding Logit Regression"
+tags:
+  - Blog
+  - MathJax
+  - Jekyll
+  - LaTeX
+use_math: true
+---
+
 **Understanding Logit Regression**
  
 
