@@ -9,7 +9,7 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 -->
 
 # tl;dr 
-- 로짓 회귀는 우리가 알던 그 '회귀'가 아니다. 
+- 로짓 회귀는 우리가 알던 그 '회귀'가 아니야! 
 - 로짓 회귀는 아래와 같은 데이터 모형에 기반한 추정법이다. 
 
  $$
@@ -213,5 +213,5 @@ $$
 
 Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5MzQ2NzExXX0=
+eyJoaXN0b3J5IjpbMTczMzg0NDcwMCw4NjkzNDY3MTFdfQ==
 -->
